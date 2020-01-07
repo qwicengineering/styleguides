@@ -1,4 +1,4 @@
-# Styleguides
+# QWIC Engineering Styleguides
 
 We externalized (for now) the styleguides that we are going to use for our projects.
 
@@ -31,3 +31,6 @@ This is extra line makes the description longer.
 ```
 
 Reference to git commit styleguide [here](https://chris.beams.io/posts/git-commit/)
+
+## About us
+QWIC is a Dutch e-bike manufacturer with HQ in Amsterdam. If you want to learn more visit https://qwic.nl
