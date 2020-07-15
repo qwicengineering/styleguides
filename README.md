@@ -6,6 +6,11 @@ We externalized (for now) the styleguides that we are going to use for our proje
 2. [Typescript styleguide](https://github.com/unional/typescript-guidelines)
 3. Github styleguide:
 
+PR titles
+```
+JIRA-321 Refacter consumer service due to performance issues
+```
+
 Commits should have this structure:
 ```
 <Jira task number> <short description>
