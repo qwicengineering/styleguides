@@ -4,7 +4,9 @@ We externalized (for now) the styleguides that we are going to use for our proje
 
 1. [Javascript styleguide](https://github.com/airbnb/javascript)
 2. [Typescript styleguide](https://github.com/unional/typescript-guidelines)
-3. Github styleguide:
+3. [Dart styleguide](https://dart.dev/guides/language/effective-dart/style)
+4. [Flutter styleguide](https://github.com/flutter/flutter/wiki/Style-guide-for-Flutter-repo#prefer-single-quotes-for-strings)
+5. Github styleguide:
 
 PR titles
 ```
